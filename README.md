@@ -19,5 +19,18 @@ To install the needed packages please run
 ```shell 
 pip3 install pyotp qrcode matplotlib numpy
 ```
-
+##### Welcome Screen
 ![Welcome Screen](Screenshots/img1.png)
+
+##### Option 1 shows all the website's passwords available in database
+![Option 1](Screenshots/img2.png)
+
+##### Option 2 to enter the value on the blockchain
+![Option 2](Screenshots/img3.png)
+
+##### Option 3 to see password for any website 
+![Option 3](Screenshots/img4.png)
+
+##### Option for QR code (you can copy 2FA code in your mobile using this QR code)
+![QR Code](Screenshots/qr.png)
+
