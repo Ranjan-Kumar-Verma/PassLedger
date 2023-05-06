@@ -13,3 +13,9 @@ Copy the contents of the tar file into the fabric sample folder which is created
 ```shell
 python3 new.py
 ```
+
+To install the needed packages please run 
+
+```shell 
+pip3 install pyotp qrcode matplotlib numpy
+```
