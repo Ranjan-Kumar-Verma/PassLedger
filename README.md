@@ -1,5 +1,6 @@
 # PassLedger
 PassLedger is an innovative, blockchain password manager with 2FA support
+A collboration between @Ranjan-Kumar-Verma and @CaffineAddic
 
 #### How to run this code
 Copy the contents of the tar file into the fabric sample folder which is created when hyperledger fabric is installed.
@@ -13,6 +14,9 @@ Copy the contents of the tar file into the fabric sample folder which is created
 ```shell
 python3 new.py
 ```
+
+After running this file you will be asked to enter the token 
+Please copy the token printed above and past it to allow it to run create the peer nodes in the hyperledger fabric.
 
 To install the needed packages please run 
 
