@@ -8,6 +8,7 @@ Copy the contents of the tar file into the fabric sample folder which is created
 2. The files used to run the blockchain and the python scripts are already there in the tar file.
 3. In the untarred file navigate to /test-network/
 4. You can start the the code by running 
+
 '''
 python3 new.py
 '''
