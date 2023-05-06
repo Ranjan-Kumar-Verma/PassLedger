@@ -9,6 +9,9 @@ Copy the contents of the tar file into the fabric sample folder which is created
 3. In the untarred file navigate to /test-network/
 4. You can start the the code by running 
 
-'''
-python3 new.py
-'''
+
+```shell
+print("Hello, world!")
+for i in range(10):
+    print(i)
+```
