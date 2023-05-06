@@ -19,3 +19,5 @@ To install the needed packages please run
 ```shell 
 pip3 install pyotp qrcode matplotlib numpy
 ```
+
+![Welcome Screen](Screenshots/img1.png)
