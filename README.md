@@ -11,7 +11,5 @@ Copy the contents of the tar file into the fabric sample folder which is created
 
 
 ```shell
-print("Hello, world!")
-for i in range(10):
-    print(i)
+python3 new.py
 ```
